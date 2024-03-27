@@ -1,4 +1,4 @@
-![Orbit Systems logo.](orbitsystems.png)
+![Orbit Systems logo.](/profile/orbitsystems.png)
 
 # Orbit Systems
 
