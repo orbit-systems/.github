@@ -1,3 +1,5 @@
+![Orbit Systems logo.](orbitsystems.png)
+
 # Orbit Systems
 
 Orbit Systems is an organization centered around [**Aphelion**][Aphelion], a 64-bit [RISC][RISC]-like [*instruction set architecture*][ISA].
