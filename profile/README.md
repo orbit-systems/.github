@@ -1,4 +1,4 @@
-<img src="orbitsystems.png" alt="Orbit Systems Logo" width="400"/>
+<img src="/profile/orbitsystems.png" alt="Orbit Systems Logo" width="400"/>
 
 # Orbit Systems
 
