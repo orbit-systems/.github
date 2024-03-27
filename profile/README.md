@@ -1,4 +1,4 @@
-![Orbit Systems logo.](/profile/orbitsystems.png)
+<img src="orbitsystems.png" alt="Orbit Systems Logo" width="400"/>
 
 # Orbit Systems
 
