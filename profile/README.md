@@ -12,6 +12,7 @@ Aphelion aims to be a clean and featureful architecture without succumbing to pa
 
 - [Comet][Comet] is the main Aphelion ISA reference emulator, written in C. It serves as the implementation reference for Aphelion.
 - [Luna][Luna] is the main Aphelion assembler, written in C.
+- [Kepler][Kepler] is the main Aphelion disassembler, written in C.
 - [Mars][Mars] is statically-typed, procedural language for kernel and embedded programming. Mars focuses on low-level control, with emphasis on code configuration.
 
 ### Side projects
@@ -25,6 +26,7 @@ Aphelion aims to be a clean and featureful architecture without succumbing to pa
 [Aphelion]: https://github.com/orbit-systems/aphelion
 [Comet]: https://github.com/orbit-systems/comet
 [Luna]: https://github.com/orbit-systems/luna
+[Kepler]: https://github.com/orbit-systems/kepler
 [Mars]: https://github.com/orbit-systems/mars
 [Nova]: https://github.com/orbit-systems/nova
 [Meteor]: https://github.com/orbit-systems/meteor
