@@ -17,9 +17,7 @@ Aphelion aims to be a clean and featureful architecture without succumbing to pa
 
 ### Side projects
 
-- [Nova][Nova] (also known as <https://nova.ferret.cafe>) is the Aphelion ISA online playground, written in Rust using WebAssembly. It includes an embedded assembler and emulator.
-- [Meteor][Meteor] is an Aphelion ISA emulator, written in Rust. Meteor functions as a library with an example CLI for executing Aphelion code. Used in [Nova][Nova].
-- [Terra][Terra] is an Aphelion assembler, written in Rust. Terra also functions as a library. Used in [Nova][Nova].
+- [Meteor][Meteor] is an Aphelion ISA emulator, written in Rust. Meteor functions as a library with an example CLI for executing Aphelion code.
 - [aphelion-util][util] ([lib.rs](https://lib.rs/crates/aphelion-util)) is a Rust library of types and traits useful for Aphelion programming.
 
 
